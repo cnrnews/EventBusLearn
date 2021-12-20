@@ -2,4 +2,4 @@
 手敲实现EventBus核心流程
 
 ## 核心流程
-![image](/QQ截图20211220113137.png)
+![image](https://raw.githubusercontent.com/cnrnews/EventBusLearn/master/sou.png)
